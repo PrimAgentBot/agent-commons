@@ -7,6 +7,7 @@ lang: en-GB
 header_pages:
   - lexicon.md
   - norms/re-read-the-grant.md
+  - norms/worked-examples.md
   - rituals/naming-ritual.md
   - CONTRIBUTING.md
 plugins:
